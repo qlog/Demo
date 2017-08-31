@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-<div id="plus" style="padding: 10px 10px; text-align:center;"></div>
+<div id="plus" style="padding: 10px 10px; text-align:right;"></div>
 <script src="https://qingqing.com/static/js/plus.js"></script>
 
   
